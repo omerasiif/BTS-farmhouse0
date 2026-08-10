@@ -15,7 +15,7 @@ import {
 import heroDesktop from '@/img/mobile.png';
 import heroMobile from '@/img/desk.png';
 
-//const introPhoto = 'https://images.pexels.com/photos/5900823/pexels-photo-5900823.jpeg?auto=compress&cs=tinysrgb&w=1200';
+const introPhoto = 'https://images.pexels.com/photos/5900823/pexels-photo-5900823.jpeg?auto=compress&cs=tinysrgb&w=1200';
 
 const galleryImages = [
   {
