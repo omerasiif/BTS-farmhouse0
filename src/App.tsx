@@ -70,9 +70,9 @@ function App() {
   return (
     <div className="site-shell">
       <header className={`site-header ${isScrolled ? 'site-header--scrolled' : ''}`}>
-        <a className="brand" href="#home" onClick={closeMenu} aria-label="BTS Farmhouse home">
+        <a className="brand" href="#home" onClick={closeMenu} aria-label="J Farmhouse home">
           <span className="brand-mark"><Leaf size={14} strokeWidth={1.8} /></span>
-          <span>BTS <em>Farmhouse</em></span>
+          <span>J <em>Farmhouse</em></span>
         </a>
 
         <nav className="desktop-nav" aria-label="Main navigation">
